@@ -7,7 +7,7 @@ toolchain go1.26.6
 require (
 	github.com/go-resty/resty/v2 v2.17.2
 	github.com/jarcoal/httpmock v1.4.2
-	github.com/stretchr/testify v1.11.1
+	github.com/stretchr/testify v1.12.0
 	golang.org/x/net v0.58.0
 )
 
