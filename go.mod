@@ -2,7 +2,7 @@ module github.com/Depado/soundcloud
 
 go 1.25.0
 
-toolchain go1.27.0
+toolchain go1.27.1
 
 require (
 	github.com/go-resty/resty/v2 v2.17.2
